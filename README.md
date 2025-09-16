@@ -54,7 +54,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 Open the notebook in Google Colab or Jupyter
-https://colab.research.google.com/github/your-username/online-food-delivery-analysis/blob/main/notebooks/Online_food_delivery.ipynb
+https://colab.research.google.com/drive/1EfICcSVXpo1GdLIG0Enoy9KvKWO00VR_?usp=sharing
 
 Tomilola Omotiba
 
