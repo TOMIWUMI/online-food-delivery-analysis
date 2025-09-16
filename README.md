@@ -1,19 +1,20 @@
 
-# 🍔 Online Food Delivery Analysis  
+
+#  Online Food Delivery Analysis  
 
 This project explores **online food delivery data** using **PySpark and Python** to uncover customer behavior, delivery trends, and business insights.  
 
 ---
 
-## 🚀 Project Workflow
-- 📂 Data preprocessing with PySpark DataFrames  
-- 🔍 Exploratory Data Analysis (EDA) with Pandas & Matplotlib  
-- 📊 Visualization of customer preferences and delivery patterns  
-- 💡 Business insights and recommendations  
+##  Project Workflow
+-  Data preprocessing with PySpark DataFrames  
+-  Exploratory Data Analysis (EDA) with Pandas & Matplotlib  
+-  Visualization of customer preferences and delivery patterns  
+-  Business insights and recommendations  
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **PySpark**  
 - **Pandas**  
 - **Matplotlib**  
@@ -21,45 +22,14 @@ This project explores **online food delivery data** using **PySpark and Python**
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - Identified patterns in **customer order frequency and preferences**  
 - Analyzed **delivery times and satisfaction** trends  
 - Recommendations for improving **customer experience** and **operational efficiency**  
 
 ---
 
-## 📂 Repository Structure
-
-# 🍔 Online Food Delivery Analysis  
-
-This project explores **online food delivery data** using **PySpark and Python** to uncover customer behavior, delivery trends, and business insights.  
-
----
-
-## 🚀 Project Workflow
-- 📂 Data preprocessing with PySpark DataFrames  
-- 🔍 Exploratory Data Analysis (EDA) with Pandas & Matplotlib  
-- 📊 Visualization of customer preferences and delivery patterns  
-- 💡 Business insights and recommendations  
-
----
-
-## 🛠️ Tools & Technologies
-- **PySpark**  
-- **Pandas**  
-- **Matplotlib**  
-- **Jupyter / Google Colab**  
-
----
-
-## 📊 Key Insights
-- Identified patterns in **customer order frequency and preferences**  
-- Analyzed **delivery times and satisfaction** trends  
-- Recommendations for improving **customer experience** and **operational efficiency**  
-
----
-
-## 📂 Repository Structure
+## Repository Structure
 online-food-delivery-analysis/
 │
 ├── notebooks/
@@ -73,7 +43,7 @@ online-food-delivery-analysis/
 
 ---
 
-## 📖 How to Run
+##  How to Run
 1. Clone this repo:
    ```bash
    git clone https://github.com/your-username/online-food-delivery-analysis.git
