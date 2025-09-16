@@ -1,5 +1,4 @@
-# online-food-delivery-analysis
-Exploratory Data Analysis of Online Food Delivery data using PySpark, Pandas, and Matplotlib to uncover customer trends, preferences, and business insights.
+
 # 🍔 Online Food Delivery Analysis  
 
 This project explores **online food delivery data** using **PySpark and Python** to uncover customer behavior, delivery trends, and business insights.  
